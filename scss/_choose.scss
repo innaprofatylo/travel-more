@@ -1,0 +1,34 @@
+.ba-choose{
+	display: flex;
+	align-items: center;
+}
+.ba-title-left{
+	margin-top: 70px;
+	margin-bottom: 45px;
+	font-weight: 400;
+
+	&--book{
+		font-size: 20px;
+		text-transform: uppercase;
+		margin-bottom: 0px;
+
+	}
+}
+.ba-text-left{
+	margin-bottom: 28px;
+	line-height: 1.7;
+
+	&--book{
+		font-size: 20px;
+		margin-bottom: 20px;
+	}
+	&--booking{
+		margin-bottom: 45px;
+	}
+}
+.ba-img-river{
+margin-left: 70px;
+}
+.ba-img-mountains{
+	margin-left: 195px;
+}
