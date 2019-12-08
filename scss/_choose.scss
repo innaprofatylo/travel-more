@@ -10,17 +10,19 @@
 	&--book{
 		font-size: 20px;
 		text-transform: uppercase;
-		margin-bottom: 0px;
+		margin-bottom: 18px;
 
 	}
 }
 .ba-text-left{
-	margin-bottom: 28px;
+	margin-bottom: 25px;
 	line-height: 1.7;
+	font-weight: 300;
+	letter-spacing: 1px;
 
 	&--book{
 		font-size: 20px;
-		margin-bottom: 20px;
+		margin-bottom: 16px;
 	}
 	&--booking{
 		margin-bottom: 45px;
